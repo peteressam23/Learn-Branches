@@ -1,0 +1,8 @@
+ teacher Table
+ {
+  Phone 
+  Age 
+  Salary
+ }
+ 
+ 
